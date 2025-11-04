@@ -5,6 +5,7 @@
 ### These models are designed for multimodal microscopic cell or nuclei instance segmentation in biomedical images. 
 ### The framework supports multiple backbones (CellEmbed, InstanSeg, CellPoseSAM, CellPose3, MicroSAM, CellViT, Mediar) and includes practical utilities for data loading, 
 ### augmentation, post-processing, evaluation, and a GUI visualization interface.
+### The weights for CellEmbed-SAM and other six models can be downloaded from http://www.oncoimmunobank.cn/software/item/CellEmbed. 
 
 ### CellEmbed-main/
 ### ├── cellembed/                      # Main framework
