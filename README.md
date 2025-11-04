@@ -3,9 +3,7 @@
 > A complete pipeline for multimodal microscopic **cell or nuclei instance segmentation** built on the **CellEmbed‑SAM** family of models.  
 > Includes dataset preparation, training, evaluation, batch inference, and a lightweight GUI.
 
-<p align="center">
-  <img src="docs/teaser.png" alt="CEmbed-SAM teaser (placeholder)" width="80%"/>
-</p>
+
 
 ## ✨ Highlights
 - **Generalizable** across modalities (fluorescence, brightfield, H&E/IHC, bacteria, etc.).
