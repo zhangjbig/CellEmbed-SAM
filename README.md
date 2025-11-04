@@ -1,14 +1,14 @@
 # CellEmbed-SAM
 ##  CellEmbed SAM Introduction
-This repository provides a complete pipeline for multimodal microscopic cell or nuclei instance segmentation, based on the CellEmbed-SAM family of models.
-The workflow covers dataset preparation, model training, evaluation, and inference. 
-These models are designed for multimodal microscopic cell or nuclei instance segmentation in biomedical images. 
-The framework supports multiple backbones (CellEmbed, InstanSeg, CellPoseSAM, CellPose3, MicroSAM, CellViT, Mediar) and includes practical utilities for data loading, 
-augmentation, post-processing, evaluation, and a GUI visualization interface.
+### This repository provides a complete pipeline for multimodal microscopic cell or nuclei instance segmentation, based on the CellEmbed-SAM family of models.
+### The workflow covers dataset preparation, model training, evaluation, and inference. 
+### These models are designed for multimodal microscopic cell or nuclei instance segmentation in biomedical images. 
+### The framework supports multiple backbones (CellEmbed, InstanSeg, CellPoseSAM, CellPose3, MicroSAM, CellViT, Mediar) and includes practical utilities for data loading, 
+### augmentation, post-processing, evaluation, and a GUI visualization interface.
 
-CellEmbed-main/
-├── cellembed/                      # Main framework
-│   ├── pretrained CEmbed-SAM/
+### CellEmbed-main/
+### ├── cellembed/                      # Main framework
+### │   ├── pretrained CEmbed-SAM/
 │   │   └── CEmbed_SAM/
 │   │       └── model_weights.pth    # Trained CEmbed-SAM checkpoint (used by GUI)
 │   ├── scripts/
